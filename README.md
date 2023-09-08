@@ -1,5 +1,5 @@
 # EstructuradeComputadores
-Código realizado en Assembler MIPS, MARS simulator, para la asignatura de Estructura de Computadores
+Código realizado en Assembler MIPS, MARS simulator, para la asignatura de Estructura de Computadores, Laboratorio 1. Simulación y optimización de un programa en un procesador escalar segmentado.
 
 El proyecto consiste de tres scripts nombrados Punto 1, Punto 2 y Punto 3. 
 
